@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &643125642684695389
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 643125642684695387}
+  - component: {fileID: 643125642684695386}
+  m_Layer: 0
+  m_Name: Resume Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &643125642684695387
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 643125642684695389}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.96187, y: 11.1251, z: 19.513918}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &643125642684695386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 643125642684695389}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15224033a6b4c1b4eb74265af5d6a900, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  originalball: {fileID: 0}
+  jagu: {fileID: 7426247844853864875, guid: 78e5dd6d5e9668a4587b6ff4bb96cdc5, type: 3}
+  champ: {fileID: 1358686321665844781, guid: a397c3ef6f921ba418de55703b1b6380, type: 3}
+  comben: {fileID: 215485999904292324, guid: eaf6d07ea5b44b34b8908bd9835cfe30, type: 3}
+  skeleton: {fileID: 7897779594569514512, guid: 9e58fb10efc1feb4ba0f3ff045b4ba20,
+    type: 3}
+  dna: {fileID: 2093851450039099017, guid: 425aef2280653c247a358354accea580, type: 3}
+  obstacle: {fileID: 0}
+  cup: {fileID: 0}

@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Animation.unity
+    guid: 0eb477316c30ebd44acb572cc3ac0245
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 6452aca65a5b1514db0a063d75500e95
+  - enabled: 1
+    path: Assets/Scenes/Cup it 1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Cup it 2.unity
+    guid: 2f163d79b34fc274586ce4c2106944b5
+  - enabled: 1
+    path: Assets/Scenes/Cup it 3.unity
+    guid: 077bd79dc0892a64e9f684622e6a46f9
+  - enabled: 1
+    path: Assets/Scenes/Cup it 4.unity
+    guid: fd15685cc6cd1624c9bb27f560244635
+  - enabled: 1
+    path: Assets/Scenes/Cup it 5.unity
+    guid: f797475018c86e4418f63a3e6c397128
+  - enabled: 1
+    path: Assets/Scenes/Cup it 6.unity
+    guid: bb1e5aa632a2e9b4e9a76e6cffd67b02
+  - enabled: 1
+    path: Assets/Scenes/Cup it 7.unity
+    guid: 010b1fe0b775a9443828c47efbc89f46
+  - enabled: 1
+    path: Assets/Scenes/Cup it 8.unity
+    guid: 1134e05c93e0f984897ad192edff1d50
+  - enabled: 1
+    path: Assets/Scenes/Cup it 9.unity
+    guid: 81a45698877e0954595ca5816dcdff5a
+  - enabled: 1
+    path: Assets/Scenes/Cup it 10.unity
+    guid: 7f8b5b8bec347ec43a65fb410a815811
+  - enabled: 1
+    path: Assets/Scenes/Cup it 11.unity
+    guid: 9713e3276616c6b4380880beaa62515e
+  - enabled: 1
+    path: Assets/Scenes/Cup it 12.unity
+    guid: a0c2933e52d92f648bb665b45857f70f
+  - enabled: 1
+    path: Assets/Scenes/Cup it 13.unity
+    guid: 0bdd861ae9d331a48801200c26baf179
+  - enabled: 1
+    path: Assets/Scenes/Cup it 14.unity
+    guid: 7d13f16593dce25499e2ee0b799ab8de
+  - enabled: 1
+    path: Assets/Scenes/Cup it 15.unity
+    guid: c7c64f6f2ece90f40a012ed26e1aa61e
+  - enabled: 1
+    path: Assets/Scenes/Cup it 16.unity
+    guid: c96362461f45d8942a878926bd307c5e
+  - enabled: 1
+    path: Assets/Scenes/Cup it 17.unity
+    guid: ee0695f3d5cefbc4098effe74d06030a
+  - enabled: 1
+    path: Assets/Scenes/Cup it 18.unity
+    guid: cf54516259e8537448cb8e5324556f64
+  - enabled: 1
+    path: Assets/Scenes/Cup it 19.unity
+    guid: 3a4862a4038bb1948823e9d00f778da3
+  - enabled: 1
+    path: Assets/Scenes/Cup it 20.unity
+    guid: bd837bf6b6aa7bc409304bbd3e1443a7
+  - enabled: 1
+    path: Assets/Scenes/Cup it 21.unity
+    guid: 27d3ee9f04e6605449a7367ea76f055d
+  - enabled: 1
+    path: Assets/Scenes/Cup it 22.unity
+    guid: fb61599f7b14dd94886d5caa45145110
+  - enabled: 1
+    path: Assets/Scenes/Cup it 23.unity
+    guid: 329f9e407f3902845aa341be99675a0d
+  - enabled: 1
+    path: Assets/Scenes/Cup it 24.unity
+    guid: 02cdd763d2f080c4baecea52455aff54
+  - enabled: 1
+    path: Assets/Scenes/Cup it 25.unity
+    guid: cc7e457d0e7fa1e42ae8465bbc2ddde9
+  - enabled: 1
+    path: Assets/Scenes/Cup it 26.unity
+    guid: 66198e5aafad45e4cb9bda6bdf2dffc1
+  - enabled: 1
+    path: Assets/Scenes/Cup it 27.unity
+    guid: 92260c567bf3d9e4a863f08c858952ae
+  - enabled: 1
+    path: Assets/Scenes/Cup it 28.unity
+    guid: 891c21929e9a19b42a3142c938d79353
+  - enabled: 1
+    path: Assets/Scenes/Cup it 29.unity
+    guid: 0b1b180a7e6362247be3c0a8603924e1
+  - enabled: 1
+    path: Assets/Scenes/Cup it 30.unity
+    guid: a4380cf6f245b864d848fd0ae00f0c90
+  - enabled: 1
+    path: Assets/Scenes/End Scene.unity
+    guid: 8489541e22f84ec4f80a9863c7df6379
+  m_configObjects: {}
